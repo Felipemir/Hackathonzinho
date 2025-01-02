@@ -1,6 +1,6 @@
 # Hackathonzinho Locadora de Filmes e Jogos Digitais
 
-Bem-vindo ao Hackathon! Esta é a sua oportunidade de mostrar suas habilidades, aprender novas tecnologias e colaborar com outros talentos em uma competição empolgante.
+Bem-vindo ao Hackathonzinho! Esta é a sua oportunidade de mostrar suas habilidades, aprender novas tecnologias e colaborar com outros talentos em uma competição empolgante.
 
 Tema
 
