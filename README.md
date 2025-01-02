@@ -8,7 +8,7 @@ Desenvolver uma plataforma simples de locadora de filmes e jogos digitais voltad
 
 A equipe pode optar por trabalhar com um conceito real ou fictício, desde que identifique necessidades claras para guiar o desenvolvimento.
 
-Funcionalidades Básicas
+Funcionalidades Básicas 
 
 Catálogo de Filmes e Jogos:
 
