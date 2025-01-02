@@ -108,7 +108,7 @@ O projeto deve ser publicado em uma URL acessível (ex.: Vercel, Netlify).
 
 Repositório Público:
 
-Submeter o projeto no GitHub com documentação clara (README.md).
+Submeter o projeto no GitHub com documentação clara (README.md) e um swagger pra documentar o backend.
 
 Prazo:
 
