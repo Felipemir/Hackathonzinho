@@ -63,7 +63,7 @@ Requisitos Técnicos
 
 Frontend: React (limite de 3 bibliotecas adicionais).
 
-Backend: Python com framework Flask (limite de 2 bibliotecas adicionais).
+Backend: javascript com fastify (limite de 2 bibliotecas adicionais).
 
 Banco de Dados: Escolha livre (ex.: SQLite, Firebase).
 
