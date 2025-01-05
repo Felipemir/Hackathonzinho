@@ -2,6 +2,17 @@
 
 Bem-vindo ao Hackathonzinho! Esta é a sua oportunidade de mostrar suas habilidades, aprender novas tecnologias e colaborar com outros talentos em uma competição empolgante.
 
+
+Passos para Iniciar com Vite
+Para iniciar a estrutura inicial do frontend em React com o Vite:
+
+Iniciar o Projeto:
+No terminal, execute :
+cd locadora-filmes-jogos
+npm install
+npm run dev
+Isso iniciará o ambiente de desenvolvimento e você poderá acessar a aplicação em http://localhost:5173
+
 Tema
 
 Desenvolver uma plataforma simples de locadora de filmes e jogos digitais voltada para facilitar o acesso a entretenimento para os usuários. O objetivo é criar uma solução que permita aos usuários navegar, alugar e acessar conteúdo digital de forma fácil e intuitiva.
@@ -52,7 +63,7 @@ Requisitos Técnicos
 
 Frontend: React (limite de 3 bibliotecas adicionais).
 
-Backend: Python (limite de 2 bibliotecas adicionais).
+Backend: Python com framework Flask (limite de 2 bibliotecas adicionais).
 
 Banco de Dados: Escolha livre (ex.: SQLite, Firebase).
 
